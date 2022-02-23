@@ -1,0 +1,173 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Astrological predictions for the year, 1679 shewing, according to the most approv'd of rules of that sublime study, what revolutions, or accidents, are likely to happen in many parts of the world, especially in England, Scotland, and Ireland / by J.G. ...</title>
+            <author>Gadbury, John, 1627-1704.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A42760</idno>
+            <idno type="STC">Wing G74A</idno>
+            <idno type="STC">ESTC R40435</idno>
+            <idno type="EEBO-CITATION">19319916</idno>
+            <idno type="OCLC">ocm 19319916</idno>
+            <idno type="VID">108604</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A42760)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 108604)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1670:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Astrological predictions for the year, 1679 shewing, according to the most approv'd of rules of that sublime study, what revolutions, or accidents, are likely to happen in many parts of the world, especially in England, Scotland, and Ireland / by J.G. ...</title>
+                  <author>Gadbury, John, 1627-1704.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R.G.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"With allowance."</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Astrology --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Prophecies.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:108604:1"/>
+            <pb facs="tcp:108604:1"/>
+            <p>
+               <hi>Aſtrological</hi> PREDICTIONS FOR THE YEAR, 1679.</p>
+            <p>SHEWING, According to the moſt Approv'd of <hi>Rules</hi> of that Sublime Study, What <hi>Revo<g ref="char:EOLhyphen"/>lutions,</hi> or <hi>Accidents,</hi> are likely to happen in many Parts of the <hi>World;</hi> eſpecially, in <hi>England, Scotland,</hi> and <hi>Ireland.</hi>
+            </p>
+            <q>
+               <hi>Multi multa ſciunt, ſed nemo omnia.</hi>
+            </q>
+            <p>By <hi>J. G.</hi> Student in <hi>Aſtrology.</hi>
+            </p>
+            <p>With Allowance.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>R. G.</hi> 1679.</p>
+         </div>
+      </front>
+      <body>
+         <div type="prognostications">
+            <pb facs="tcp:108604:2"/>
+            <pb facs="tcp:108604:2" rendition="simple:additions"/>
+            <head>
+               <hi>Astrological Predictions,</hi> FOR THE YEAR, 1679.</head>
+            <p>
+               <hi>Q<g ref="char:V">Ʋ</g>eris a me quantum Operantur Aſtra?</hi> ſaith an eminent Artiſt) <hi>Dico, in nos nihil aſtra urgere, ſed animos praeclives trahere, &amp;c.</hi>—Deſireſt thou to Know of me, How far the Stars have an Operation up<g ref="char:EOLhyphen"/>on Us? I tell thee they do not compel, but in<g ref="char:EOLhyphen"/>cline; and that ſo gently, that if we apply our ſelves to be governed by our Reaſon, they have no power over us; but if we reſign our ſelves to the Conduct of our Corrupt Natures, they work as much in us as in Bruits; and then we are indeed no better than they.</p>
+            <p>Which is an <hi>Axiom,</hi> every Knowing &amp; Ingenious Artiſt muſt of neceſſity own; Although I know there are ſome Sir <hi>Poſitives</hi> in <hi>Aſtrology</hi> as well as in <hi>Play-Houſes,</hi> who, (with great Impu<g ref="char:EOLhyphen"/>dence &amp; greater fraud) pretend they have the Stars in a String: Can by them diſcover and Cure <hi>Witch-Craft,</hi> &amp;c. Whereas indeed thoſe glorious bodies are not to be Subjected to any ſuch baſe purpoſes: for the influences of the Stars are pure<g ref="char:EOLhyphen"/>ly natural, and directed by Natural Beams, or Aſpects Geo<g ref="char:EOLhyphen"/>metrical;
+<pb facs="tcp:108604:3"/>and do only gently incline, but force or Compel None; and therefore can neither cauſe nor Cure <hi>Witch-Craft:</hi> This being premis'd, we hope we may without impoſing on any mans Credulity, give our modeſt obſervations, on their this years influence, and leave Heav'n and time to produce their Effects. The Remarkable influence which uſhers in this year, much reſembles that which happened in the later end of <hi>July</hi> laſt, viz, <hi>&amp;c.</hi> A Conjunction of <hi>Saturn</hi> and <hi>Mars,</hi> in the Terms of <hi>Saturn,</hi> and Decanate of the <hi>Sun</hi> — whence accor<g ref="char:EOLhyphen"/>ding to <hi>Aſtrologers,</hi> its effects will be Famous, Malicious, Craf<g ref="char:EOLhyphen"/>ty and Treacherous: But by <hi>Sol</hi> and <hi>Jupiters</hi> falling preſent<g ref="char:EOLhyphen"/>ly after the Vernal Ingreſs, into Conjunction, we may ex<g ref="char:EOLhyphen"/>pect to hear that the Grandees of Church, and State, are Vi<g ref="char:EOLhyphen"/>gorouſly Active for the Good of Both. That a time is Com<g ref="char:EOLhyphen"/>ing, and we hope not ſar diſtant, wherein both Kings, Prin<g ref="char:EOLhyphen"/>ces and Magiſtrates ſhall be voluntarily and unanimouſly ho<g ref="char:EOLhyphen"/>nor'd, obey'd and loved; and the Reverend Clergy be had in their Primitive Veneration and Reſpect, which our wiſer Fore-Fathers knew it Deſerv'd. In the interim, by <hi>Saturns</hi> Con<g ref="char:EOLhyphen"/>tinuance in <hi>Jemini,</hi> and <hi>Retrograde</hi> there, we cannot but expect much unneceſſary Cenſuring, Murmuring and Diſconten<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; ſome diſcontented heads over fond of their little Senſe, will take upon them more than becomes them, and to be thought wiſer than their Superiours, will be whiſpering to each other as <hi>Politick Secrets,</hi> thoſe things which indeed they nothing underſtand. Yet ere the firſt Month expire, ſome of them may chance to be over-heard, and found to Weep, with the Weather — The Conjunction of <hi>Mars,</hi> and <hi>Mercury,</hi> from <hi>M. Caeli</hi> and fourth Angle, lets looſe among us a raging Spirit of Lying, detracting, and Libelling; Which like the Arrows Shot by the irritated <hi>Indian</hi> at <hi>Jupiter,</hi> will revert on their own heads. <hi>Mercury</hi> in Med. <hi>Cali</hi> puſhes Magiſtrates on to the making, and executing good Laws, for the prevention of diſorders.</p>
+            <p>But yet from the Malevolent Conjunction of <hi>Saturn</hi> and <hi>Mars</hi> (if we will believe <hi>Haly,</hi> or <hi>Johannes Angelus,</hi>) we have great reaſon to fear, that not only Single perſons, but whole Societies, and the Generality of Men, by over-indulging
+<pb facs="tcp:108604:3"/>themſelves; by Contemning and deſpiſing their Adverſaries; By their too great confidence in their own deſigns and Con<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ivances; and laſtly, by an unwarrantable Security, and great forgetfullneſs of following the Preſidents, Actions and Councells of Antiquity, will bring on themſelves thoſe Miſeries and Calamities, which nothing but their early Circumſpection, and their earneſtly imploring the Aſſiſtance of Almighty pro<g ref="char:EOLhyphen"/>vidence, can be able to prevent! O the Frauds, A dulation, Craft, Cunning-Circumvention, Over-reaching, Under-mining and Treachery, which this Conjunction is Naturally prone to promote! It naturally influences the diſcloſure of Secrets a<g ref="char:EOLhyphen"/>mongſt the neareſt Relations; Councel of moſt private con<g ref="char:EOLhyphen"/>cern will be apt to be laid open: and that Friendſhip which before was thought inſeparable, may perhaps now ſuffer a Diſſolution: unleſs ſuch men as are ſignified by this Con<g ref="char:EOLhyphen"/>junction have their ſeveral Nativities happily qualified by <hi>Jupiter,</hi> and <hi>Mercury,</hi> &amp;c. Whereby the Operation will be much more Moderate.</p>
+            <p>May the Effects of this Conjunction be to our Enemies; but to England, <hi>Jupiter</hi> in <hi>Aries</hi> brings the happy tidings of Peace and Victory, and great hopes that many of our well<g ref="char:EOLhyphen"/>deſerved Souldiers, and Courtiers, will be worthily rewar<g ref="char:EOLhyphen"/>ded with preferment. —</p>
+            <p>By the Conjunction of <hi>Mars</hi> and <hi>Venus,</hi> which happens about the middle of <hi>March,</hi> we may Expect, if there be any Great <hi>Lady, Princeſs,</hi> &amp;c. in Urope, who hath <hi>Aries</hi> for her <hi>Horoſcope:</hi> that ſhe may be about that time ren<g ref="char:EOLhyphen"/>der'd very Happy, Honourable and Illuſtrious; and that ſhe is very likely ſhortly to bleſs the world with a Proſperous Male-Iſſue that ſhall Spring from her Loyns, who in time may render that Nation happy, and its Scepter ſecure, in which ſhe now dwells; Mauger all its Enemies hopes to the Contrary.</p>
+            <p>In <hi>June, Gemini</hi> is great Dignities of <hi>Mercury;</hi> And a ſigne of Eminent Regency in this Age: From whence, by the Rules of <hi>Aſtrology,</hi> we may expect great Aſſemblies, Con<g ref="char:EOLhyphen"/>ventions and Synods, to Congregate towards the <hi>Weſtern</hi>
+               <pb facs="tcp:108604:4"/>part of the World about this time, to Debate of Weighty Affairs, both Humane and Divine. <hi>Saiurn in Horoſcopo</hi> will alſo occaſion Bluſtring Weather, and conſequently ſome Shipwracks towards the <hi>North-Eaſt</hi> parts of our Kingdom.</p>
+            <p>
+               <hi>September</hi> is likely to prove a Vigorous and Active Month in ſeveral reſpects; many Contentions are likely to happen about this aiery ſubtle Miſtreſs called <hi>HONO<g ref="char:V">Ʋ</g>R,</hi> of which many men will, about this time, prove ſo ſtrangely enamou<g ref="char:EOLhyphen"/>red, that they will voluntarily expoſe their Lives and For<g ref="char:EOLhyphen"/>tunes to the uſual Dangers which generally attend on Com<g ref="char:EOLhyphen"/>mendable Actions, rather than part with her Company.</p>
+            <p>To conclude, although the Inauſpecious Conjunction of <hi>Saturn</hi> and <hi>Mars,</hi> ſeems to threaten a deprevation on the Moral Vertues, which will run ſome hazard of being war<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>'d againſt by Subtlety, Hypocriſy, Treachery, &amp;c.— which will be chiefly cauſed by the envious and malifick nature of of <hi>Saturn.</hi> Yet if we Credit the knowing <hi>Bonatus,</hi> fol. 567. we have this for our Comfort, That <hi>Jupiter</hi> in the Eleventh, gives them much comfort and aſſiſtance from Friends: Influ<g ref="char:EOLhyphen"/>ences Joy, Pleaſure, Proſperity, Peace and Delight. Alſo it enclines men to a reciprocal, or mutual adminiſtration of Civilities; makes them careful of each others Reputations; faithful in their Truſts; by which means men compaſs a Halcyon Serenity, or contentedneſs of Mind, and happily come to enjoy the utmoſt of their temporal wiſhes. — To whoſe Judgement <hi>Haly</hi> alſo accords, Fol. 371. <hi>Si Jupiter fuerit in unde<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ima, &amp;c.</hi> When <hi>Jupiter</hi> is poſited in the eleventh Angle of a Revolution, Men ſhall have Good Fortune multiply'd unto them, and live freely and proſperouſly, enjoying Peace and Plenty, &amp;c. nay (ſayes he) although they deſpair'd of thoſe Bleſſings, yet during that Revolution they ſhall be made happy with them, and ſhall obtain ſuch things as they can reaſonably hope for, or expect. And to render our condition more happy, the Thoughts and Actions of Kings, Princes, and Magiſtrates; will wholly tend towards the preſervation, and of the Rights and Priviledges of the People. And very probable it is, that from this Auſpicious poſition of of benign <hi>Jupiter,</hi> ſome Honourable Acts, or Act of Grace,
+<pb n="7" facs="tcp:108604:4"/>may be expected from our Illuſtrious <hi>Caeſar,</hi> and his grave <hi>Sonators,</hi> which ſhall effectually quiet the diſcompoſed minds, and quell the Diſorders which are now too rife among us. <hi>Quicquid ligat Saturnus ſolvit Jupiter:</hi> And this we have the greater Hopes of, by comparing that of Learned <hi>Herm<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s,</hi> with the Judicious <hi>Haly,</hi> who ſayes; <hi>S<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> Luna <hi>fuerit in ſe<g ref="char:EOLhyphen"/>cunda Domo</hi> (as here) <hi>ſignificat quod populos habebit illo an<g ref="char:EOLhyphen"/>no bonum &amp; utilitatem:</hi> If the <hi>Moon</hi> be Poſited in the Se<g ref="char:EOLhyphen"/>cond Houſe, the People may that Year expect to Enjoy all the Benefits of <hi>Peace</hi> and <hi>Plenty.</hi> And ſhe being ſeated in her Proper Manſion, and in a <hi>Trine Aſpect</hi> of <hi>Mercury</hi> on the Eleventh, and <hi>Jupiter</hi> diſpoſing of them, we have great Hopes, that his Noble Influences will pervert the Malig<g ref="char:EOLhyphen"/>nity of <hi>Saturn,</hi> and turn his Venom into an Antidote; at leaſt, as long as this Revolution ſhall remain.</p>
+            <p>In fine, Let the Friendly Influences of Indulgent <hi>Jupiter</hi> attend our Land, and then its Inhabitants can hardly be Unhappy: He is a great Lover of Peace; and there are ſcarcely any, but are Con<g ref="char:EOLhyphen"/>vinc'd, That nothing can Hurt us, but our Diviſi<g ref="char:EOLhyphen"/>ons.</p>
+            <p>The Stars look like ſo many Glorious Eyes, with Benevolent Aſpects on us: There is hardly a Frown (unleſs in that leering Conjunction of <hi>Saturn</hi> and <hi>Mars</hi>) to be found in <hi>Heaven</hi>'s ſmiling Superficies, which we may properply appropriate to <hi>England.</hi> So that, if we be not our own Enemies, by induſtriouſly groping for feigned Fears and Jealouſies, where there are really none to be found: If we would not (by private Surmiſes, and ſeditious Whiſperings) antici<g ref="char:EOLhyphen"/>pate Misfortunes, and with Melancholly Contem<g ref="char:EOLhyphen"/>plations, render our ſelves Fictiouſly Miſerable, be<g ref="char:EOLhyphen"/>fore we are ſo, (or <hi>Heaven</hi> intends we ſhall be ſo in<g ref="char:EOLhyphen"/>deed.) I ſay then, I doubt not, but we might En<g ref="char:EOLhyphen"/>joy
+<pb n="8" facs="tcp:108604:5"/>all the Bleſſings of Providence in a large Pro<g ref="char:EOLhyphen"/>portion: And whil'ſt our Neighbours and Enemies are ſharing among themſelves, the Calamitous Re<g ref="char:EOLhyphen"/>tinue of a Bloody War; we might <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>it not only Hap<g ref="char:EOLhyphen"/>pily, but Secure our Own at Home; quietly Pru<g ref="char:EOLhyphen"/>ning our own Vines, and peaceably partaking of all thoſe other Incomparable Bleſſings, which may be reaſonably expected under a Gracious KING, and Happy Government.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:108604:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
